@@ -46,7 +46,7 @@
 
 ![8](../Referer-based-access-control/images/image8.jpg)
 
-> *`action=upgrade` không cần thay đổi, `username` sẽ phải thay đổi thành `wiener`. Nhưng như vậy thì sẽ chỉ thay đổi như ở bên trên, vấn đề ở nằm ở cookie. Theo mô tả, ta phải sử dụng account `wiener` để thay đổi role nhưng ta đang ở session của `admin`.
+> *`action=upgrade` không cần thay đổi, `username` sẽ phải thay đổi thành `wiener`. Nhưng như vậy thì sẽ chỉ thay đổi như ở bên trên, vấn đề ở nằm ở cookie. Theo mô tả, ta phải sử dụng account `wiener` để thay đổi role nhưng ta đang ở session của `admin`.*
 
 * *Sử dụng `Private Window`, login bằng account `wiener:peter` rồi lấy cookie của user này:*
 

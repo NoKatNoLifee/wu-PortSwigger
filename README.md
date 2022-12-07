@@ -2,7 +2,7 @@
 
 ### Một chiếc WU nho nhỏ của PortSwigger:
 
-![LOGO](../wu-PortSwigger/logo.jpg)
+![LOGO](/logo.jpg)
 
 <!-- Access control vulnerabilities -->
 

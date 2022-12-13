@@ -53,6 +53,10 @@
 <summary>SQL injection</summary>
 
 <p>
+
+| ID | Name |
+| :---: | :---: | 
+| 1 | [SQL injection vulnerability allowing login bypass](/SQL-injection/SQL-injection-vulnerability-allowing-login-bypass) |
  
 </details>
 
